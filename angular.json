@@ -29,6 +29,7 @@
               "src/assets"
             ],
             "styles": [
+              "node_modules/handsontable/dist/handsontable.full.css",
               "src/styles.scss"
             ],
             "scripts": []
